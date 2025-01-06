@@ -5,10 +5,11 @@
 
 Merhaba,
 Bu projede "MC" adlı bir e-ticaret şablonu oluşturdum. Mevcut e-ticaret sitelerine benzer, kapsamlı bir çalışma üzerine odaklandım. Proje, üç sayfadan oluşmaktadır:
-
-Ana Sayfa
-Ürün Detayları Sayfası
-Satış Sayfası
+<ul>
+<li> Ana Sayfa </li>
+<li> Ürün Detayları Sayfası </li>
+<li> Satış Sayfası </li>
+</ul>
 Sayfalar HTML ve CSS kullanılarak tasarlandı. Daha iyi bir görünüm elde etmek için Bootstrap framework'ü entegre edildi. Ürün detayları sayfasında, sınırlı düzeyde JavaScript kütüphanelerinden yararlanıldı. Genel olarak, gerçek bir e-ticaret sitesi görünümü oluşturmaya çalıştım.
 
 Umarım çalışmamı beğenirsiniz. Geri dönüşlerinizi sabırsızlıkla bekliyorum!
